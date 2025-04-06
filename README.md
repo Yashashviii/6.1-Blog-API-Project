@@ -43,7 +43,7 @@ This project is a part of my **backend learning journey** and a key milestone to
 
 ## 🔗 Connect with Me
 
-- [🌐 LinkedIn](https://www.linkedin.com/in/yashashvinikhare)
+- [🌐 LinkedIn](www.linkedin.com/in/yashashvsathwara)
 - [💻 GitHub](https://github.com/yashashviii)
 
 ---
